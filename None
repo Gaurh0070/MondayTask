@@ -1,0 +1,110 @@
+<html>
+<body>
+<!--Hero continued two section starts -->
+                          <table  align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;" width="100%">
+                           <tr>
+                              <td style="width: 600px;height:auto;">
+                                 <table class="deviceWidth" style="width:540px" align="center" border="0" cellpadding="0" cellspacing="0" width="540">
+                                    <tr>
+                                       <td height="20" style="height:20px;line-height: 1px;font-size: 1px;">
+                                          &nbsp;
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td>
+                                          <table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%;" width="100%">
+                                             <tr>
+                                                <td style="font-size: 18px;line-height: 25px;color: #000000;">
+                                                 <tr> 
+                                                    Primary hero
+                                                   </tr>
+                                                   <tr>
+                                                      <td height="5" style="height:5px;line-height: 1px;">
+                                                         &nbsp;
+                                                      </td>
+                                                   </tr> 
+                                                   <tr><td>
+                                                      Primary hero </td>
+                                                   </tr>
+                                                   
+                                                   <tr><td align="center">
+                                                      <div>
+                                                         <a target="_blank" href="#" style="-webkit-border-radius: 10px; -moz-border-radius: 5px; border-radius: 27px; border-radius: 10px; font-family: Open Sans, bold; text-decoration: none; line-height:22px; display:inline-block;font-weight:600;font-size: 16px;padding-left:20px; Padding-right:20px;">
+                                                         <span style="color: #FFFFFF;text-align: center;">
+                                                         Contact Us
+                                                         </span>
+                                                         </a>
+                                                      </div>
+                                                     </td> </tr>
+                                                </td>
+                                                <td>
+                                                   <img src="C:/Users/Akshat/Desktop/Newfolder/123_190x290">
+                                                </td>
+                                             </tr>
+                                             <tr>
+                                                <td height="5" style="height:5px;line-height: 1px;">
+                                                   &nbsp;
+                                                </td>
+                                             </tr> 
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td height="10" style="height:10px;line-height: 1px;font-size: 1px;">
+                                          &nbsp;
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td>
+                                          <table style="margin:0 auto;border-spacing: 0;border-collapse: collapse;" align="left" border="0" cellpadding="0" cellspacing="0" class="floatNone">
+                                             <tr>
+                                                <td bgcolor="#304DE8">
+                                                   <div>
+                                                      <!--[if mso]>
+                                                      <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="#" style="mso-wrap-style:none; mso-position-horizontal: center;" arcsize="10%" strokecolor="#0368d4" strokeweight="1px" fillcolor="#304DE8">
+                                                         <v:textbox style="mso-fit-shape-to-text:true">
+                                                            <center style="color:#000000; font-family: Open Sans, bold; font-size:16px;font-weight:bold;text-transform: uppercase;">Contact us</center>
+                                                         </v:textbox>
+                                                      </v:roundrect>
+                                                      <![endif]-->
+                                                      <![if !mso]>
+                                                      <table style="margin:0 auto;border-spacing: 0;border-collapse: collapse;" align="left" border="0" cellpadding="0" cellspacing="0" >
+                                                         <tr>
+                                                            <td align="center">
+                                                               <div>
+                                                                  <a target="_blank" href="#" style="-webkit-border-radius: 10px; -moz-border-radius: 5px; border-radius: 27px; border-radius: 10px; font-family: Open Sans, bold; text-decoration: none; line-height:22px; display:inline-block;font-weight:600;font-size: 16px;padding-left:20px; Padding-right:20px;">
+                                                                  <span style="color: #FFFFFF;text-align: center;">
+                                                                  Contact Us
+                                                                  </span>
+                                                                  </a>
+                                                               </div>
+                                                            </td>
+                                                         </tr>
+                                                      </table>
+                                                      <![endif]>
+                                                   </div>
+                                                </td>
+                                             </tr>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td height="20" style="height:20px;line-height: 1px;font-size: 1px;">
+                                          &nbsp;
+                                       </td>
+                                    </tr>
+                                 </table>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td height="30" style="height:30px;line-height: 1px;font-size: 1px;">
+                                 &nbsp;
+                              </td>
+                           </tr>
+                        </table>
+
+       
+                       <!--Hero continue two section ends -->
+
+                     </body>
+                       </html>
